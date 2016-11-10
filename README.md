@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spacetime Framework
 ===========
 Python version required: Python 2.7
@@ -9,3 +10,6 @@ Required packages to be installed:
 3. flask_restful
 4. requests
 5. pcc (Wheel file included. Install using pip: ``pip install python/pcc-0.0.3-py2-none-any.whl``)
+=======
+# AmazonSimulatiom
+>>>>>>> 583148a2cf72efc25b7ae3ece3b256dfd18fef67
